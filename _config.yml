@@ -2,7 +2,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: Simply just
+title: Simply Just
 url: denitsa-cm.github.io
 baseurl: /simply-just
 paginate: 5
@@ -12,7 +12,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Simply just
+      title: Simply Just
 
 description: Stylish Jekyll Theme
 author:

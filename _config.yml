@@ -5,6 +5,7 @@ google_analytics: dbyll
 title: Simply just
 url: denitsa-cm.github.io
 baseurl: /simply-just
+paginate: 5
 
 defaults:
   -

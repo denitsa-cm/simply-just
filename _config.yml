@@ -11,11 +11,11 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Simply just
 
 description: Stylish Jekyll Theme
 author:
-  name: Simply just
+  name: Denitsa Damm
   github: denitsa-cm
   twitter: StepToMe_
   linkedin: dmlechkova
